@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    border-radius: 20px;
+    margin: 2rem;
+    
+
+}
+.green{
+    background-color: rgb(0, 128, 85);
+}
+
+.red{
+    background-color: #ff1100;
+}
+.yellow{
+    background-color: #d5b907;
+}
+.blue{
+    background-color: #1a7ec2;
+}
+.white{
+    background-color: #fff;
+}
+.pink{
+    background-color: palevioletred;
+}
